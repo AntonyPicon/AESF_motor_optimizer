@@ -1,0 +1,11 @@
+Perfil Óptimo para 12.0 Nudos
+Índice de Estrés Mínimo Predicho: -0.023816
+
+Lever_position             1.1761
+Ship_speed                12.0000
+Shaft_torque           52637.1851
+Generator_speed         6636.1570
+Fuel_injection            14.0609
+Exhaust_temp             608.8457
+Compressor_pressure        6.1719
+Fuel_flow                  0.2461

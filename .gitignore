@@ -1,0 +1,19 @@
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+env/
+venv/
+.venv/
+
+# Archivos de IDE y sistema operativo
+.vscode/
+.idea/
+.DS_Store
+
+# Archivos de datos grandes (opcional pero recomendado)
+# Es mejor instruir al usuario para que descargue los datos por separado.
+# data/data.csv
