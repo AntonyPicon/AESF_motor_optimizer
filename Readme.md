@@ -1,6 +1,6 @@
 # Sistema Adaptativo de Gestión de la "Huella de Estrés" del Motor (AESF)
 
-![Turbine Banner]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gtps-inc.com%2F&psig=AOvVaw3roxM9_p1tAqkYHj4Fqchy&ust=1750984191035000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLi_rs3qjY4DFQAAAAAdAAAAABAE]) Este repositorio contiene el código y la metodología para un sistema de inteligencia artificial que cuantifica, predice y optimiza el estrés operativo de una turbina de gas de propulsión naval. El objetivo es prolongar la vida útil del motor y reducir costos de mantenimiento mediante la identificación de perfiles operativos de mínimo esfuerzo.
+![Turbine Banner]([https://www.gtps-inc.com/img/homepage-banner-img.jpg]) Este repositorio contiene el código y la metodología para un sistema de inteligencia artificial que cuantifica, predice y optimiza el estrés operativo de una turbina de gas de propulsión naval. El objetivo es prolongar la vida útil del motor y reducir costos de mantenimiento mediante la identificación de perfiles operativos de mínimo esfuerzo.
 
 ---
 
@@ -51,7 +51,7 @@ El desafío es: **¿Cómo podemos medir y minimizar este estrés sin sacrificar 
 Este programa ofrece una solución integral en tres pasos:
 
 ### Paso 1: Cuantificar la "Huella de Estrés"
-Creamos el `Stress_Index` para unificar la degradación del compresor y la turbina en un solo número fácil de interpretar.
+Creamos el Stress_Index para unificar la degradación del compresor y la turbina en un solo número fácil de interpretar.
 $$\text{Stress\_Index} = \sqrt{(1 - kMc)^2 + (1 - kMt)^2}$$
 
 ![Mapa de Degradación](results/plots/degradation_map.png)
