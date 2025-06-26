@@ -1,6 +1,6 @@
 # Sistema Adaptativo de Gestión de la "Huella de Estrés" del Motor (AESF)
 
-![Turbine Banner](https://i.imgur.com/your-banner-image.png) Este repositorio contiene el código y la metodología para un sistema de inteligencia artificial que cuantifica, predice y optimiza el estrés operativo de una turbina de gas de propulsión naval. El objetivo es prolongar la vida útil del motor y reducir costos de mantenimiento mediante la identificación de perfiles operativos de mínimo esfuerzo.
+![Turbine Banner]([https://i.imgur.com/your-banner-image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gtps-inc.com%2F&psig=AOvVaw3roxM9_p1tAqkYHj4Fqchy&ust=1750984191035000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLi_rs3qjY4DFQAAAAAdAAAAABAE)) Este repositorio contiene el código y la metodología para un sistema de inteligencia artificial que cuantifica, predice y optimiza el estrés operativo de una turbina de gas de propulsión naval. El objetivo es prolongar la vida útil del motor y reducir costos de mantenimiento mediante la identificación de perfiles operativos de mínimo esfuerzo.
 
 ---
 
